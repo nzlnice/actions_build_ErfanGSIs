@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2135_A_5.14.8-update-full_1675325496.zip
-  ROM_NAME: OriginOS
+  ROM_URL: https://oss.ztedevices.com/prod/cn/direct/russia/ztebladev30/ZTE%20Blade%20V30(9030RU)%20SD%20card%20software(410530B0593GEN_RU_9030RU_V1.2).zip
+  ROM_NAME: MyOS
   BUILD_TYPE: a
   TZ: Asia/Shanghai
 
